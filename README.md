@@ -13,6 +13,8 @@ env 파일에 tvdb의 API를 작성합니다.
 <h3>종속성 패키지를 설치합니다.</h3>
 - pip install -r requirements.txt
 
+# 결과
+
 `show_name`에 작품의 이름을 작성합니다.
 
 ex) "Frieren - Beyond Journey's End"
