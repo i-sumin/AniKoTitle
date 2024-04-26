@@ -1,0 +1,5 @@
+certifi==2024.2.2
+load-dotenv==0.1.0
+python-dotenv==1.0.1
+setuptools==69.5.1
+tvdb-v4-official==1.1.0
